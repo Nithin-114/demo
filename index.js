@@ -40,7 +40,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-    case "I":
+    case "i":
       var audio = new Audio('sounds/tom-3.mp3');
       audio.play();
       break;
@@ -50,7 +50,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-    case "H":
+    case "h":
       var audio = new Audio('sounds/snare.mp3');
       audio.play();
       break;
@@ -60,7 +60,7 @@ function makeSound(key) {
       audio.play();
       break;
 
-    case "N":
+    case "n":
       var audio = new Audio('sounds/kick-bass.mp3');
       audio.play();
       break;
